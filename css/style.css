@@ -1,0 +1,29 @@
+* {
+  text-align: center;
+  background: #313b4c;
+  color: #ffff;
+}
+video {
+  display: block;
+}
+
+button {
+  border: none;
+  border: 1px solid #141821;
+  background-color:#141821;
+  padding:15px 45px;
+  font-size: 1.2rem;
+  border-radius: 0.4em;
+  cursor: pointer;
+}
+
+button:hover {
+  filter: brightness(80%);
+}
+h1,h3{
+  background: #2d3748;
+}
+.top-menu{
+  background: #2d3748;
+  padding: 1px 0px;
+}
